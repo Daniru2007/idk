@@ -1,4 +1,4 @@
 cls
-g++ src\*.cpp -o build\main.exe -Iincludes -Wall -O2
+g++ src\*.cpp -o build\idk.exe -Iincludes -Wall -O2
 cls
-build\main.exe
+build\idk test\main.idk
