@@ -1,4 +1,4 @@
 push #45
 push #54
-add #45 #54
+add
 hit
